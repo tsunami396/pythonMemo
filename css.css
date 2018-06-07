@@ -6,10 +6,10 @@ cursor:pointer;
 }
 h3 span{
 display:block;
-background:url(開く時の画像) no-repeat right 50%;
+background:url(Down.png) no-repeat right 50%;
 }
 h3.bg02 span{
-background:url(閉じる時の画像) no-repeat right 50%;
+background:url(Up.png) no-repeat right 50%;
 }
 div{
 padding:20px;
