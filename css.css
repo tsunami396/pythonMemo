@@ -1,0 +1,17 @@
+h3{
+color:#fff;
+padding:10px;
+background:#333;
+cursor:pointer;
+}
+h3 span{
+display:block;
+background:url(開く時の画像) no-repeat right 50%;
+}
+h3.bg02 span{
+background:url(閉じる時の画像) no-repeat right 50%;
+}
+div{
+padding:20px;
+display:none;
+}
